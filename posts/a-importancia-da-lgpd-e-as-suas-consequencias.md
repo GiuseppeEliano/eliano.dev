@@ -4,6 +4,7 @@ title.en: "The Importance of LGPD and Its Consequences"
 date: 2025-06-25 20:55:00
 description.pt: "Este artigo aborda a importância da Lei Geral de Proteção de Dados (LGPD) no Brasil e as consequências que as empresas podem enfrentar ao não cumprirem suas disposições, incluindo um exemplo de punição recente."
 description.en: "This article discusses the importance of the General Data Protection Law (LGPD) in Brazil and the consequences companies may face for failing to comply, including a recent example of punishment."
+tags: ["lgpd", "adm"]
 ---
 # A Importânсia da LGPD e as Suas Consequênсias
 
